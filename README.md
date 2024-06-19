@@ -1,4 +1,8 @@
 AdEclipse  Chrome extension
+
+https://github.com/BadakalaYashwanth/AdEclipse-ads-Block-chrome-extensions/assets/170221536/763b44d0-c6ff-4bbb-8dc1-2e5f951d98cd   
+
+
 Certainly! Here are five key points about your Chrome extension project:
 # AdEclipse
 
